@@ -7,7 +7,9 @@ As of now,
 
 I will be updating the tasks from my domain : Data Science and Business Analytics for the February 2023 batch.
 
-IDE : Jupyter Notebook-> Technical Task Data Science & Business Analytics
+# IDE : Jupyter Notebook
+
+# -> Technical Task Data Science & Business Analytics
 
 **Task	Description**
 
