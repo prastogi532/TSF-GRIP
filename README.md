@@ -9,7 +9,7 @@ I will be updating the tasks from my domain : Data Science and Business Analytic
 
 # IDE : Jupyter Notebook
 # -> Technical Task 
-**Data Science & Business Analytics**
+# -> **Data Science & Business Analytics**
 
 **Task	Description**
 
