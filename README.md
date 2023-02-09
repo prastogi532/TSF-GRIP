@@ -3,7 +3,9 @@
 # **Graduation Rotational Internship Program**
 
 This repository is dedicated to the completion of all my tasks from The Sparks Foundation (Graduate Rotational Internship Program). 
-As of now, I will be updating the tasks from my domain : Data Science and Business Analytics for the February 2023 batch.
+As of now, 
+
+I will be updating the tasks from my domain : Data Science and Business Analytics for the February 2023 batch.
 
 IDE : Jupyter Notebook-> Technical Task Data Science & Business Analytics
 
@@ -21,9 +23,4 @@ Task 5	Exploratory Data Analysis - Sports (Level - Advanced)
 
 Task 6	Prediction using Decision Tree Algorithm (Level - Intermediate)
 
-**Computer Vision & IoT**
-**Task	Description**
 
-Task 1	Object Detection in Image and Video (Level - Beginner)
-
-Task 2	Color Identification in Images (Level - Beginner)
