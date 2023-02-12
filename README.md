@@ -7,7 +7,7 @@ As of now,
 
 I will be updating the tasks from my domain : Data Science and Business Analytics for the February 2023 batch.
 
-# IDE : Jupyter Notebook
+# IDE : Google Colab
 # -> Technical Task 
 # -> **Data Science & Business Analytics**
 
